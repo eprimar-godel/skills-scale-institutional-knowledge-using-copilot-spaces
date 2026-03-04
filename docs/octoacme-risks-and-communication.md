@@ -39,4 +39,8 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, the **Security Lead** leads the response: they notify relevant stakeholders, follow the security incident runbook, and coordinate remediation with Developers
+- The **Stakeholder Representative** communicates incident impact and status updates to their stakeholder group
+- The **Technical Writer** owns drafting and publishing external-facing incident communications when appropriate
+
+> See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions on Security Lead and Stakeholder Representative responsibilities.

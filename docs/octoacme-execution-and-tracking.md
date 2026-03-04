@@ -20,8 +20,24 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI — owned by the **Security Lead**, who reviews findings and works with Developers on remediation
+- UX/UI Designer performs usability review of implemented features against design specs before QA sign-off
 - Manual QA for feature acceptance when needed
+
+## Key Roles at This Phase
+| Role | Responsibility during Execution |
+|---|---|
+| PM | Tracks progress, manages risks, facilitates standups and escalations |
+| PdM | Clarifies acceptance criteria; adjusts priorities based on new information |
+| Developers | Implement features; write tests; participate in code and design reviews |
+| QA/Testing | Executes test plans; validates feature completeness; signs off on quality |
+| UX/UI Designer | Reviews implemented UI for design fidelity and usability; unblocks dev on design questions |
+| Security Lead | Monitors security scan results in CI; manages vulnerability remediation; manages incidents |
+| Business Analyst | Validates delivered features against original business requirements |
+| Technical Writer | Tracks feature changes with documentation impact; drafts release notes iteratively |
+
+> See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.
+> Use the [RACI & Handoffs guide](octoacme-raci-and-handoffs.md) for handoff checklists between roles.
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -35,6 +51,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] CI configured for tests, lint, and security scanning (Security Lead confirms)
+- [ ] Regular demos scheduled (include Stakeholder Representatives and UX/UI Designer)
 - [ ] Risk register updated weekly
+- [ ] UX/UI Designer performing per-sprint design fidelity reviews
+- [ ] Technical Writer tracking feature changes for documentation updates

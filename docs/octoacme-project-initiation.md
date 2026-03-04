@@ -12,6 +12,18 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Define success criteria and initial timeline
 - Decide go/no-go for planning
 
+## Key Roles at This Phase
+| Role | Responsibility during Initiation |
+|---|---|
+| PM | Leads the initiation process; owns the One-pager and stakeholder alignment |
+| PdM | Validates business need and success metrics |
+| Business Analyst | Conducts stakeholder interviews; documents initial requirements and process context |
+| Stakeholder Representative | Confirms stakeholder priorities; reviews and approves the One-pager on behalf of their group |
+| Security Lead | Flags initial security or compliance requirements |
+| UX/UI Designer | Identifies UX research or discovery work needed before planning begins |
+
+> See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.
+
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
@@ -32,6 +44,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Business Analyst has documented initial requirements and process flows
+- [ ] Stakeholder Representative has confirmed stakeholder priorities
+- [ ] Security Lead has identified applicable security/compliance requirements
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
