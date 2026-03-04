@@ -16,6 +16,9 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Include all key roles in retrospectives, especially cross-functional contributors: UX/UI Designer, Technical Writer, Security Lead, Business Analyst, and Stakeholder Representative where applicable
+
+> See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

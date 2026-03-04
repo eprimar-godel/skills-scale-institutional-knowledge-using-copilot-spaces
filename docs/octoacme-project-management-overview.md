@@ -14,11 +14,18 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+The roles listed below are present on most projects. Additional specialist roles — UX/UI Designer, Technical Writer, Security Lead, Business Analyst, and Stakeholder Representative — may also participate depending on project scope. See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions, responsibilities, and cross-role interaction points.
+
+- **Project Manager (PM):** coordinates delivery, schedules, risk, and communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** implement features, collaborate on design and testability.
+- **QA/Testing:** validate quality and acceptance criteria.
+- **Stakeholders:** provide inputs and approvals.
+- **UX/UI Designer:** owns user experience, designs interfaces, and validates usability.
+- **Technical Writer:** creates and maintains user documentation and release notes.
+- **Security Lead:** defines security requirements, manages vulnerability scanning, and leads incident response.
+- **Business Analyst (BA):** translates business requirements into actionable work items.
+- **Stakeholder Representative:** voices the priorities and concerns of key stakeholder groups.
 
 ## Key Artifacts
 - Project Charter / One-pager
