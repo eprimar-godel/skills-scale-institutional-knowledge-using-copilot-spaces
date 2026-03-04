@@ -34,7 +34,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 | UX/UI Designer | Reviews implemented UI for design fidelity and usability; unblocks dev on design questions |
 | Security Lead | Monitors security scan results in CI; manages vulnerability remediation; manages incidents |
 | Business Analyst | Validates delivered features against original business requirements |
-| Technical Writer | Tracks feature changes with documentation impact; drafts draft release notes iteratively |
+| Technical Writer | Tracks feature changes with documentation impact; drafts release notes iteratively |
 
 > See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role definitions.
 > Use the [RACI & Handoffs guide](octoacme-raci-and-handoffs.md) for handoff checklists between roles.

@@ -1,6 +1,6 @@
 # OctoAcme Personas
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+This document defines typical roles and responsibilities used in OctoAcme project docs and exercises. For a quick view of role accountability per project phase and cross-role handoff checklists, see the [RACI & Handoffs guide](octoacme-raci-and-handoffs.md).
 
 ---
 
